@@ -8,11 +8,10 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <groupId>cn.rookieyx</groupId>
-    <artifactId>behavior-design-1-01</artifactId>
+    <artifactId>behavior-design-1-02</artifactId>
     <packaging>jar</packaging>
 
-    <name>behavior-design-1-01</name>
+    <name>behavior-design-1-02</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -20,10 +19,12 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>cn.rookieyx</groupId>
             <artifactId>behavior-design-1-00</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+
 </project>
