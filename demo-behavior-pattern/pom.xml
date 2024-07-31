@@ -19,6 +19,9 @@
         <module>behavior-design-1-00</module>
         <module>behavior-design-1-01</module>
         <module>behavior-design-1-03</module>
+        <module>behavior-design-2-00</module>
+        <module>behavior-design-2-01</module>
+        <module>behavior-design-2-02</module>
     </modules>
 
     <properties>
