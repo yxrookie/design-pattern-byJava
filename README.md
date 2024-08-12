@@ -19,4 +19,8 @@
 | 创建型模式 | behavior-design-4-00 | 建造者模式--装修场景模拟                            | 
 | 创建型模式 | behavior-design-4-01 | 装修场景 -- if-else 实现                       | 
 | 创建型模式 | behavior-design-4-01 | 装修场景 -- 建造者模式实现                          | 
+| 创建型模式 | behavior-design-5-00 | 原型模式 -- 考试场景模拟                           | 
+| 创建型模式 | behavior-design-5-01 | 考试场景 -- 单类实现                             | 
+| 创建型模式 | behavior-design-5-02 | 考试场景 -- 原型模式实现                           | 
+| 创建型模式 | behavior-design-5-03 | 原型模式 -- 深，浅拷贝实现                          | 
 
