@@ -9,6 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/demo-behavior-pattern/behaviour-design-4-00/pom.xml" />
         <option value="$PROJECT_DIR$/we/pom.xml" />
       </set>
     </option>
